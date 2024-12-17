@@ -1,6 +1,7 @@
 nginx
 node:lts-slim
 mengbin92/remix:0.57.1
+dreamacro/clash
 
 ##支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
